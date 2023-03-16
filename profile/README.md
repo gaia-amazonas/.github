@@ -1,3 +1,6 @@
-# SIGETI- Gaia Amazonas
+# Documentación de Scripts Gaia-Amazonas 🌱
 
-Repositorio central de los diferentes proyectos del SIGETI.
+[SIGETI](https://github.com/gaia-amazonas/sigeti_dashboards)
+
+[MapBiomas Colombia](https://github.com/KaBasDeveloper/MapBiomasColombia/tree/MapBiomas_Colombia/Coleccion_1)
+
